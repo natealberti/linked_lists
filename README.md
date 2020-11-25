@@ -1,2 +1,4 @@
 # linked_lists
 Manipulate linked lists
+
+This was created for a school project so it's kind of vague. It runs though the console and lets the user add strings or "inventory" items to a list implemented with links. There are then multiple options to view and modify the lists. The link class creates a single link, consisting of and Object of data and an address pointing to the "next" link. By chaining multiple of them together, The List class creates a single instance of a list, consisting of multiple links chained together. The Test class implements the different methods and outputs information to the console. Various options perform different traversals, insertions, and deletions of the lists. The "deleteItem" method is still a bit spotty, I hope to come back and finish it soon, but I wasn't able to get to the root of the problem.
